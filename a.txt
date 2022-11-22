@@ -1,2 +1,3 @@
 blablabla
 aaaaaaaa
+Seif 'O' - Edit file a.txt and fill it with some content (irrelevant). Commit the change. Call the commit C6.
